@@ -1,0 +1,2 @@
+---Comandos de Angular
+ng server -o    -->Levantar el servidor de angular
